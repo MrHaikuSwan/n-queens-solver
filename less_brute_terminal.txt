@@ -1,0 +1,50 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\Ashwin\Desktop\Ideas\PythonPrograms\eight-queens> & C:/Users/Ashwin/AppData/Local/Programs/Python/Python38-32/python.exe c:/Users/Ashwin/Desktop/Ideas/PythonPrograms/eight-queens/eight_queens.py
+Press ENTER to begin solving 1x1 board:
+        Took 0.001012563705444336 seconds to solve the 1x1 board.
+
+Press ENTER to continue, or type anything here to exit:
+Press ENTER to begin solving 2x2 board:
+        Took 0.0 seconds to solve the 2x2 board.
+
+Press ENTER to continue, or type anything here to exit:
+Press ENTER to begin solving 3x3 board:
+        Took 0.0 seconds to solve the 3x3 board.
+
+Press ENTER to continue, or type anything here to exit:
+Press ENTER to begin solving 4x4 board:
+        Took 0.0019941329956054688 seconds to solve the 4x4 board.
+
+Press ENTER to continue, or type anything here to exit:
+Press ENTER to begin solving 5x5 board:
+        Took 0.009973526000976562 seconds to solve the 5x5 board.
+
+Press ENTER to continue, or type anything here to exit:
+Press ENTER to begin solving 6x6 board:
+        Took 0.019947052001953125 seconds to solve the 6x6 board.
+
+Press ENTER to continue, or type anything here to exit:
+Press ENTER to begin solving 7x7 board:
+        Took 0.11671781539916992 seconds to solve the 7x7 board.
+
+Press ENTER to continue, or type anything here to exit:
+Press ENTER to begin solving 8x8 board:
+        Took 0.5604932308197021 seconds to solve the 8x8 board.
+
+Press ENTER to continue, or type anything here to exit:
+Press ENTER to begin solving 9x9 board:
+        Took 3.746058464050293 seconds to solve the 9x9 board.
+
+Press ENTER to continue, or type anything here to exit:
+Press ENTER to begin solving 10x10 board:
+        Took 20.396868228912354 seconds to solve the 10x10 board.
+
+Press ENTER to continue, or type anything here to exit:
+Press ENTER to begin solving 11x11 board:
+        Took 175.01378440856934 seconds to solve the 11x11 board.
+
+Press ENTER to continue, or type anything here to exit: asdf
